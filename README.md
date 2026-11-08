@@ -499,8 +499,6 @@ These screenshots document the practical implementation and verification process
 
 *Timing analysis report showing the critical path and timing information.*
 
-**Note:** The screenshot files above are placeholders. Replace them with actual screenshots generated from your own ISE 14.7 environment.
-
 ---
 
 ## 11. How to Run This Project in Xilinx ISE 14.7
